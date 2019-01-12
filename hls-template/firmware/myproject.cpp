@@ -24,7 +24,9 @@
 #include "nnet_layer.h"
 #include "nnet_conv.h"
 #include "nnet_conv2d.h"
+#include "nnet_batchnorm.h"
 #include "nnet_activation.h"
+#include "nnet_pooling.h"
 
 //hls-fpga-machine-learning insert weights
 
